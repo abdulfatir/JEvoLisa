@@ -1,5 +1,5 @@
 # JEvoLisa
-A Java port of Roger Alsing's EvoLisa which approximates an image using a set number of shapes by optimization using Genetic Algorithm. The co-ordinates and ARGB values of the shapes are evolved using GA and at any instant a chromosome represents a collection of such shapes.
+A Java port of Roger Alsing's EvoLisa which approximates an image using a set number of shapes by using an optimization algorithm. The co-ordinates and ARGB values of the shapes are evolved and at any instant a chromosome represents a collection of such shapes.
 ### Build
 `$ javac JEvoLisa.java Chromosome.java Polygon.java Shape.java`
 ### Usage
