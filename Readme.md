@@ -24,3 +24,6 @@ The code does not comply entirely with Java design guidelines, fork it to make i
 #### Possible Features
 * Chromosome serialization so that best chromosome can be saved and later loaded to resume computation.
 * Command Line arguments to set the number and type of shapes.
+### Further Reading
+[Roger Alsing's Article](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/)
+[Online Image Evolution](http://alteredqualia.com/visualization/evolve/)
